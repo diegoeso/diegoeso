@@ -1,9 +1,9 @@
-# Bienvenido a mi Página Principal
+# Bienvenido a mi repositorio
 
-¡Hola! Soy Diego Enrique Sanchez, y este es mi repositorio de GitHub que sirve como mi página personal. Aquí encontrarás información sobre mí, mis proyectos y cualquier otra cosa que desee compartir.
+¡Hola! Soy Diego Enrique Sanchez, y este es mi repositorio de GitHub que sirve como mi página personal. Aquí encontrarás información sobre mí, mis proyectos y cualquier otra información.
 
 ## Acerca de mí
-Soy un Ing en software enfocado al desarrollo web
+Soy Ing en software
 
 ## Proyectos Destacados
 
