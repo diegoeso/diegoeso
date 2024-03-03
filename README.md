@@ -1,8 +1,8 @@
 <h2>Diego Enrique Sanchez 
 </h2>
-<p><em>Ingeniero en Software</em></p>
+<p><em>Software engineer</em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco de información sobre mi...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little information about me...
 
 ```javascript
 const info = {
