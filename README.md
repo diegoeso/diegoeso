@@ -6,8 +6,8 @@
 
 ```javascript
 const info = {
-    code: ["Javascript", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "PHP", "HTML5","CSS3"],
+    askMeAbout: ["web dev", "app dev"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
