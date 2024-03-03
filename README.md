@@ -22,7 +22,7 @@ const info = {
     },
     architecture: ["Progressive web applications", "Single page applications"],
 };
-
+```
 💬 Languages: 
 JavaScript               
 Python                   
