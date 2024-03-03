@@ -24,11 +24,11 @@ const info = {
 };
 ```
 💬 Languages: 
-JavaScript               
-Python                   
+JavaScript                                  
 PHP                     
 Markdown                
-YAML                    
+XML
+Bash
 
 🔥 Editors: 
 Visual Studio Code                
